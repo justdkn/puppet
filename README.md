@@ -1,0 +1,2 @@
+# puppet
+remote desktop control
